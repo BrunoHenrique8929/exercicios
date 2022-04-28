@@ -1,0 +1,2 @@
+# exercicios
+ estudos de javascript
